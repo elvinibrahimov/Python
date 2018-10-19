@@ -27,4 +27,4 @@ def hypervalue(*args):
 	print(args)
 	print(type(args))
 
-hypervalue(23,4,5,5,34,'sd',"hello")
+hypervalue(23,4,5,5,34,'sd',"hello:)")
